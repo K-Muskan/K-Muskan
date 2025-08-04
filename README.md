@@ -8,7 +8,7 @@
 
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWJrZ2hoaDBnczd4bnB0cGJhcTFueXg2dzdpZHNkYndtZzludWYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
 
 ###
  
