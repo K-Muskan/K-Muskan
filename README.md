@@ -1,8 +1,8 @@
-<h2 align="center">Hola amigos, I'm Khadija :)</h2>
+<h2 align="center"> Hey there, I'm Khadija  :)</h2>
 
 ###
 
-<h3 align="center"><i>Talk is cheap lemme show you the code</i></h3>
+<h3 align="center"><i> Turning ideas into code, one commit at a time  </i></h3>
 
 ###
 
@@ -12,11 +12,11 @@
 
 ###
  
-- <i>Something</i>
+- <i> Aspiring Software Engineer passionate about crafting innovative solutions </i>
 
-- <i>Something</i>
+- <i> Final Year Software Engineering Student </i>
 
-- <i>Something</i>
+- <i> Leadership & Teamwork</i>
 
 ###
 
