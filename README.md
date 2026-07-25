@@ -71,9 +71,19 @@
 
 ###
 
-| Colab | Visual Studio Code | Git | Jupyter |
-|:----------:|:----------:|:----------:|:----------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="30" alt="Colab Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="VS Code Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="30" alt="git logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="30" alt="Jupyter logo"/> |
+| Colab | Visual Studio Code | Git | Jupyter | n8n |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="30" alt="Colab Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="VS Code Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="30" alt="git logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="30" alt="Jupyter logo"/> | <img src="https://img.shields.io/static/v1?message=n8n&logo=n8n&label=&color=EA4B71&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="n8n logo"/> |
+
+###
+
+<h3 align="left">🧠 AI, NLP & Computer Vision</h3>
+
+###
+
+| Computer Vision | NLP | OCR | Multimodal AI | Facial Emotion Recognition |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV logo"/> | <img src="https://img.shields.io/static/v1?message=NLP&logo=huggingface&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="NLP badge"/> | <img src="https://img.shields.io/static/v1?message=OCR&label=&color=4B5563&labelColor=&style=for-the-badge" height="28" alt="OCR badge"/> | <img src="https://img.shields.io/static/v1?message=Multimodal+AI&label=&color=7C3AED&labelColor=&style=for-the-badge" height="28" alt="Multimodal AI badge"/> | <img src="https://img.shields.io/static/v1?message=Facial+Emotion+AI&label=&color=EC4899&labelColor=&style=for-the-badge" height="28" alt="Facial Emotion Recognition badge"/> |
 
 ###
 
@@ -89,6 +99,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=K-Muskan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=K-Muskan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Muskan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">💓 The Heartbeat of My Commits</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Muskan&theme=react-dark&hide_border=true&area=true" alt="K-Muskan's github activity graph" width="90%" />
 </div>
 
 ###
