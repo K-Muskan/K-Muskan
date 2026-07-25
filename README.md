@@ -12,11 +12,11 @@
 
 ###
  
-- <i> Aspiring Software Engineer passionate about crafting innovative solutions </i>
+- <i> Software Engineer passionate about crafting innovative solutions </i>
 
-- <i> Final Year Software Engineering Student </i>
+- <i> Software Engineering Graduate </i>
 
-- <i> Leadership & Teamwork</i>
+- <i> Researching and Utilizing AI For Better Human Computer Interaction</i>
 
 ###
 
